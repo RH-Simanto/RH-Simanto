@@ -209,7 +209,7 @@ My goal is to develop into a skilled Network Engineer with strong theoretical kn
 
 <div align="center">
 
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=Ratul-HossainMeazi&theme=blue-green&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D)(https://git.io/streak-stats)"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=Ratul-HossainMeazi&theme=blue-green&border_radius=5&short_numbers=true)(https://git.io/streak-stats)"/>
 
 </div>
 
