@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Aspiring+Network+Engineer;Routing+%26+Switching+Enthusiast;Network+Infrastructure+Explorer;Network+Security+Learner;Design.+Configure.+Connect.+Secure." />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=800&color=0BE8F7&center=true&vCenter=true&width=435&lines=Aspiring+Network+Engineering+%26+;Cyber+Security+Specialist;Network+Infrastructure+Explorer;Network+Security+Learner;Design.+Configure.+Connect.+Secure." alt="Typing SVG" /></a>
 
 <br/><br/>
 </a>
