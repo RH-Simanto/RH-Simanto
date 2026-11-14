@@ -1,8 +1,8 @@
-# 🌐 RH-SIMANTO | NETWORK ENGINEER
+# 🌐 Ratul Hossain | NETWORK ENGINEER
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:082F49,60:075985,100:0891B2&height=250&section=header&text=RH-SIMANTO&fontSize=68&fontColor=FFFFFF&fontAlignY=38&desc=NETWORK%20ENGINEERING%20%7C%20INFRASTRUCTURE%20%7C%20CYBERSECURITY&descSize=15&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=timeGradient&section=header&reversal=false&text=Ratul+Hossain&textBg=false&fontColor=%2387CEEB&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&stroke=87CEEB&strokeWidth=0&desc=NETWORK+ENGINEERING+%7C+INFRASTRUCTURE+%7C+CYBERSECURITY&descSize=20&descAlign=50&descAlignY=61" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 **IDENTITY**
 
-- Name: RH-Simanto
+- Name: Ratul Hossain Meazi
 - Role: Aspiring Network Engineer
 - Education: Computer Science & Technology
 - Interest: Network Infrastructure
@@ -54,7 +54,7 @@
 
 ## ◈ 01 — ABOUT THE ENGINEER
 
-Hello! I'm **RH-Simanto**, a Computer Science & Technology student with a strong interest in computer networking and IT infrastructure.
+Hello! I'm **Ratul Hossain**, a Computer Science & Technology student with a strong interest in computer networking and IT infrastructure.
 
 I'm passionate about understanding how digital communication works, how network devices interact, and how reliable, scalable, and secure networks are designed.
 
@@ -133,65 +133,7 @@ My goal is to develop into a skilled Network Engineer with strong theoretical kn
 
 </div>
 
-## ◈ 04 — NETWORK INFRASTRUCTURE ARCHITECTURE
-
-### Enterprise Network Topology
-
-```text
-                       ┌──────────────────┐
-                       │    INTERNET      │
-                       └────────┬─────────┘
-                                │
-                       ┌────────▼─────────┐
-                       │   EDGE ROUTER    │
-                       └────────┬─────────┘
-                                │
-                       ┌────────▼─────────┐
-                       │     FIREWALL     │
-                       └────────┬─────────┘
-                                │
-                       ┌────────▼─────────┐
-                       │   CORE SWITCH    │
-                       └────────┬─────────┘
-                                │
-                 ┌──────────────┼──────────────┐
-                 │              │              │
-            ┌────▼────┐    ┌────▼────┐    ┌────▼────┐
-            │ VLAN 10 │    │ VLAN 20 │    │ VLAN 30 │
-            │  USERS  │    │ SERVERS │    │  ADMIN  │
-            └────┬────┘    └────┬────┘    └────┬────┘
-                 │              │              │
-             CLIENT PCs     DATABASE       MANAGEMENT
-                             SERVERS         DEVICES
-```
-
-<sub>Illustrative enterprise network design for learning and lab practice.</sub>
-
-### Network Engineering Workflow
-
-```text
-REQUIREMENTS
-     |
-     ▼
-NETWORK DESIGN
-     |
-     ▼
-IP ADDRESS PLANNING
-     |
-     ▼
-DEVICE CONFIGURATION
-     |
-     ▼
-SECURITY IMPLEMENTATION
-     |
-     ▼
-TESTING & TROUBLESHOOTING
-     |
-     ▼
-MONITORING & MAINTENANCE
-```
-
-## ◈ 05 — ENGINEERING LAB & PROJECTS
+## ◈ 04 — ENGINEERING LAB & PROJECTS
 
 ### 01. Network Design & Simulation
 
@@ -228,7 +170,7 @@ MONITORING & MAINTENANCE
 - Investigate DNS and DHCP issues.
 - Inspect packets using Wireshark.
 
-## ◈ 06 — CERTIFICATION & LEARNING PATH
+## ◈ 05 — CERTIFICATION & LEARNING PATH
 
 | CERTIFICATION / SUBJECT | STATUS |
 |---|---|
@@ -242,7 +184,7 @@ MONITORING & MAINTENANCE
 
 *Learning and preparation statuses are not professional certification claims.*
 
-## ◈ 07 — PROFESSIONAL ROADMAP
+## ◈ 06 — PROFESSIONAL ROADMAP
 
 <div align="center">
 
@@ -263,19 +205,15 @@ MONITORING & MAINTENANCE
 5. Explore enterprise networking and cybersecurity.
 6. Build and document real-world networking projects.
 
-## ◈ 08 — GITHUB ANALYTICS
+## ◈ 07 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RH-Simanto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RH-Simanto&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1"/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=RH-Simanto&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=Ratul-HossainMeazi&theme=blue-green&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D)(https://git.io/streak-stats)"/>
 
 </div>
 
-## ◈ 09 — CONTRIBUTION ACTIVITY
+## ◈ 08 — CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -283,7 +221,7 @@ MONITORING & MAINTENANCE
 
 </div>
 
-## ◈ 10 — CONNECT WITH ME
+## ◈ 09 — CONNECT WITH ME
 
 <div align="center">
 
@@ -309,7 +247,7 @@ MONITORING & MAINTENANCE
 
 ### `THE FUTURE IS CONNECTED.`
 
-**RH-SIMANTO | NETWORK ENGINEERING**
+**Ratul Hossain | NETWORK ENGINEERING**
 
 <sub>Learning today. Engineering tomorrow.</sub>
 
