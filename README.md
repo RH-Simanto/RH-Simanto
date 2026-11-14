@@ -225,10 +225,6 @@ My goal is to develop into a skilled Network Engineer with strong theoretical kn
 
 <div align="center">
 
-<a href="https://github.com/RH-Simanto">
-<img src="https://img.shields.io/badge/GITHUB-RH--Simanto-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
