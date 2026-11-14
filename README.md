@@ -126,7 +126,7 @@ My goal is to develop into a skilled Network Engineer with strong theoretical kn
 
 ### OPERATING SYSTEMS & DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=windows,git,github,vscode&theme=dark"/>
 
 </div>
 
