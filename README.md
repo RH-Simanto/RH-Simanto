@@ -9,9 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Aspiring+Network+Engineer;Routing+%26+Switching+Enthusiast;Network+Infrastructure+Explorer;Network+Security+Learner;Design.+Configure.+Connect.+Secure." />
 
 <br/><br/>
-
-<a href="https://github.com/RH-Simanto">
-<img src="https://img.shields.io/badge/GitHub-RH--Simanto-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/DOMAIN-NETWORK%20ENGINEERING-075985?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/FOCUS-IT%20INFRASTRUCTURE-164E63?style=for-the-badge&logo=serverfault&logoColor=white"/>
